@@ -2,6 +2,9 @@
 
 Welcome to the Pizza Sales Dashboard project! This project aims to analyze and visualize a year's worth of sales data from a fictitious pizza place. The provided dataset includes detailed information about each order, including order dates, times, pizza types, sizes, quantities, prices, and ingredients.
 
+![Screenshot 2023-08-21 185556](https://github.com/ansarifaisal12/Sales-Dashboard/assets/115267921/203c9dd9-5b99-4ce0-b3a0-9a3c645d4df0)
+
+
 ## Project Overview
 
 The main goal of this project is to gain insights into the pizza sales data and create a Power BI Dashboard to visualize these insights in an interactive and meaningful way. The analysis focuses on answering key questions such as customer patterns, popular pizza choices, revenue trends, and menu optimization opportunities.
