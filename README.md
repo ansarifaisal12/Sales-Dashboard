@@ -9,7 +9,6 @@ The main goal of this project is to gain insights into the pizza sales data and 
 ## Table of Contents
 
 - [Data](#data)
-- [Scripts](#scripts)
 - [Power BI Dashboard](#power-bi-dashboard)
 - [Key Insights](#key-insights)
 - [Contribution](#contribution)
@@ -20,19 +19,14 @@ The main goal of this project is to gain insights into the pizza sales data and 
 
 The raw sales data is located in the `data/` directory. It includes order details, pizza types, sizes, quantities, prices, and ingredients. This data was collected over the course of a year from the fictitious pizza place.
 
-## Scripts
+## Key Insights
+Customer Patterns: Discover the number of customers each day and identify peak hours for optimal staffing.
+Pizza Preferences: Uncover typical pizza order sizes and identify customer-favorite pizza choices.
+Revenue Trends: Gain insights into sales patterns throughout the year and spot any seasonal trends.
+Menu Optimization: Use data-driven insights to evaluate underperforming pizzas and plan potential promotions.
 
-In the `scripts/` directory, you can find any scripts used for data cleaning and transformation. The cleaned and transformed data were used to create the Power BI Dashboard.
+## Contribution
+If you're interested in contributing to this project, feel free to fork the repository and make improvements. You can enhance the visualizations, optimize data transformations, or add new features to the analysis. Pull requests are welcomed!
 
-```python
-# Example data cleaning and transformation script
-import pandas as pd
-
-# Load raw data
-raw_data = pd.read_csv('data/raw_sales_data.csv')
-
-# Perform data cleaning and transformation
-# ...
-
-# Save cleaned data
-cleaned_data.to_csv('data/cleaned_sales_data.csv', index=False)
+## License
+This project is licensed under the MIT License.
