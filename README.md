@@ -5,8 +5,7 @@ Welcome to the Pizza Sales Dashboard project! This project aims to analyze and v
 The main goal of this project is to gain insights into the pizza sales data and create a Power BI Dashboard to visualize these insights in an interactive and meaningful way. The analysis focuses on answering key questions such as customer patterns, popular pizza choices, revenue trends, and menu optimization opportunities.
 
 #  Contents
-// data/: This directory contains the raw dataset in CSV format 
-    //
+data/: This directory contains the raw dataset in CSV format 
 scripts/: Here, you can find any scripts used for data cleaning, transformation, or other data-related tasks.
 PizzaSalesDashboard.pbix: The Power BI file containing the data model and interactive visualizations.
 README.md: You're currently reading it! This file provides an overview of the project.
